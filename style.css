@@ -156,3 +156,8 @@ footer {
   color: var(--muted);
   font-size: 14px;
 }
+
+footer .yt-note {
+  color: var(--muted);
+  margin: 0 0 12px;
+}
